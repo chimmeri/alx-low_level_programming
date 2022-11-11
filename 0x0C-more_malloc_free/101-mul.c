@@ -7,7 +7,7 @@
  * @st: string being passed
  * Return: 1 for number 0 for not
  */
-int check_num(char *st)
+int check_number(char *st)
 {
 	int a;
 	
